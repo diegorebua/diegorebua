@@ -5,25 +5,17 @@ Me chamo Diego, tenho 23 anos e sou estudante de Tecnologia da Informação na F
 #
 
 ### 📊 Status
-### 📊 Status
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top">
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=diegorebua&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=100"
-          width="420"
-        />
-      </td>
-      <td valign="top">
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegorebua&layout=compact&theme=algolia&cache_seconds=100"
-          width="420"
-        />
-      </td>
-    </tr>
-  </table>
-</div>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=diegorebua&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=100"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegorebua&layout=compact&theme=algolia&cache_seconds=100"
+    height="180"
+  />
+</p>
 
 #
 
