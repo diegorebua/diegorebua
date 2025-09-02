@@ -1,6 +1,6 @@
 # 🧑🏼‍💻 Diego Rebuá
 
-Me chamo Diego, tenho 23 anos e sou estudante de Tecnologia da Informação na Facens. Atuo com desenvolvimento em Java e Python, com foco em projetos de IA e automação. Tenho experiência com manutenção de hardwares e estou sempre em busca de aplicar soluções tecnológicas de forma prática e eficiente.
+Me chamo Diego, tenho 23 anos e sou estudante de Tecnologia da Informação na Facens. Atuo com desenvolvimento em Java, Go e Node. Tenho experiência com manutenção de hardwares e estou sempre em busca de aplicar soluções tecnológicas de forma prática e eficiente.
 
 #
 
