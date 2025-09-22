@@ -4,7 +4,7 @@ Me chamo Diego, tenho 23 anos e sou estudante de Tecnologia da Informação na F
 
 #
 
-### 📊 Status
+### 📊 Git Status
 
 <p align="center">
   <a href="https://github.com/diegorebua">
