@@ -1,6 +1,6 @@
 # 🧑🏼‍💻 Diego Rebuá
 
-Me chamo Diego, tenho 23 anos e sou estudante de Tecnologia da Informação na Facens. Atuo com desenvolvimento em Java, Go e Node. Tenho experiência com manutenção de hardwares e estou sempre em busca de aplicar soluções tecnológicas de forma prática e eficiente.
+Junior Developer building applications with Go, Vue, React, and Node.js. Currently studying Information Technology at Facens and working with Java in my academic projects.
 
 #
 
@@ -16,7 +16,7 @@ Me chamo Diego, tenho 23 anos e sou estudante de Tecnologia da Informação na F
 
 #
 
-### 💻 Linguagens
+### 💻 Languages
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
