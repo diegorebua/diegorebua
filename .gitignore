@@ -12,3 +12,11 @@
 /frontend/*.log.*.*.*.*
 
 /README.md
+
+/docker-compose.yml
+/package.json
+/package-lock.json
+/yarn.lock
+/pnpm-lock.yaml
+/pnpm-workspace.yaml
+/pnpm-workspace.yaml

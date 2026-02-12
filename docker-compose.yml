@@ -5,7 +5,7 @@ services:
     build: ./frontend
     container_name: barbearia-front
     ports:
-      - "3050:7000"
+      - "7000:3500"
     volumes:
       - ./frontend:/app
       - /app/node_modules
