@@ -4,18 +4,6 @@ Junior Developer building applications with Go, Vue, React, and Node.js. Current
 
 #
 
-### 📊 Git Status
-
-<p align="center">
-  <a href="https://github.com/diegorebua">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegorebua&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=1000"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegorebua&layout=compact&langs_count=6&theme=algolia&cache_seconds=1000"/>
-  </a>
-</p>
-<br />
-
-#
-
 ### 💻 Languages
 
 <img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
