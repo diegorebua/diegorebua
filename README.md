@@ -1,7 +1,3 @@
-# 🧑🏼‍💻 Diego Rebuá
-
-Desenvolvedor Júnior construindo aplicações com Go, Vue, React e Node.js. Atualmente estudando Tecnologia da Informação na Facens e trabalhando com Java em meus projetos acadêmicos.
-
 ## 🌐 Acesse meu Portfólio
 
 Para ver meus projetos mais recentes, artigos e saber mais sobre o meu trabalho, visite o meu site:
