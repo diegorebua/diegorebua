@@ -1,35 +1,18 @@
-# Project Name
+# 🧑🏼‍💻 Diego Rebuá
 
-## About
-This project is a modern web application designed to deliver an exceptional user experience using best practices in web development. It focuses on performance, accessibility, and maintainability.
+Junior Developer building applications with Go, Vue, React, and Node.js. Currently studying Information Technology at Facens and working with Java in my academic projects.
 
-## Tech Stack
-- Frontend: HTML, CSS, JavaScript
-- Backend: Node.js (if applicable)
+#
 
-## Getting Started
-Follow the instructions below to get a copy of the project up and running on your local machine for development and testing purposes.
+### 💻 Languages
 
-### Prerequisites
-- Node.js (latest stable version recommended)
-- npm (comes with Node.js)
-
-### Installation
-1. Clone the repository:
-   git clone <repository-url>
-2. Navigate into the project directory:
-   cd project-name
-3. Install the dependencies:
-   npm install
-
-### Running the Application
-Start the development server with the following command:
-npm run dev
-
-The application will start, and the terminal will output the local network address where it can be accessed.
-
-## Contributing
-Please read the contribution guidelines before submitting pull requests to the project.
-
-## License
-This project is licensed under the MIT License.
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" alt="Node" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
