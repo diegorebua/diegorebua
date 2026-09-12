@@ -1,9 +1,9 @@
-## 🌐 Acesse meu Portfólio
+## Acesse meu Portfólio
 
 Para ver meus projetos mais recentes, artigos e saber mais sobre o meu trabalho, visite o meu site:
  **[diegorebua.com](https://diegorebua.com)**
 
-## 💻 Linguagens
+## Linguagens
 
 <img align="left" alt="Logo do JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Logo do TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
