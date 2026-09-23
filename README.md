@@ -39,13 +39,3 @@ Sou desenvolvedor full stack. Construo APIs, modelo dados e crio interfaces resp
 </table>
 
 <p align="center"><a href="https://diegorebua.com/projetos">Ver mais projetos no portfólio →</a></p>
-
-## 03 / Atividade
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/diegorebua/diegorebua/output/horas.svg" width="100%" alt="Horários dos commits públicos recentes, no fuso de São Paulo." />
-  <br />
-  <img src="https://raw.githubusercontent.com/diegorebua/diegorebua/output/numeros.svg" width="100%" alt="Contribuições, commits, pull requests, repositórios e seguidores no GitHub." />
-  <br />
-  <img src="https://raw.githubusercontent.com/diegorebua/diegorebua/output/contribuicoes.svg" width="100%" alt="Animação das contribuições de Diego no GitHub." />
-</div>
