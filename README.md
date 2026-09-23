@@ -8,7 +8,3 @@
   <a href="https://www.linkedin.com/in/diegorebu%C3%A1/"><img src="./assets/linkedin.svg" width="32%" alt="Acessar LinkedIn de Diego Rebuá" /></a>
   <a href="mailto:diegorebua@gmail.com"><img src="./assets/email.svg" width="32%" alt="Enviar e-mail para Diego Rebuá" /></a>
 </div>
-
-<br />
-
-Sou desenvolvedor full stack. Construo APIs, modelo dados e crio interfaces responsivas, com atenção a código limpo e à experiência de quem usa o produto. Hoje trabalho com Node.js, Vue, React e Go; também desenvolvo projetos com Java.
