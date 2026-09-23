@@ -1,0 +1,40 @@
+name: Atualizar perfil
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/build-metrics.mjs'
+      - '.github/workflows/profile.yml'
+  schedule:
+    - cron: '17 9 * * *'
+  workflow_dispatch:
+
+jobs:
+  profile:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Gerar métricas
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: diegorebua
+        run: node scripts/build-metrics.mjs
+      - name: Gerar gráfico de contribuições
+        uses: Platane/snk@v3
+        with:
+          github_user_name: diegorebua
+          outputs: |
+            dist/contribuicoes.svg?palette=github-dark&color_snake=#38bdf8&color_dots=#080e1d,#0e172c,#124060,#176a9d,#38bdf8
+      - name: Publicar imagens
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

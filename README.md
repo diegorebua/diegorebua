@@ -1,17 +1,51 @@
-## Acesse meu Portfólio
+<div align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Diego Rebuá — desenvolvedor full stack. Sistemas confiáveis e interfaces rápidas." />
 
-Para ver meus projetos mais recentes, artigos e saber mais sobre o meu trabalho, visite o meu site:
- **[diegorebua.com](https://diegorebua.com)**
+  <br />
+  <br />
 
-## Linguagens
+  <a href="https://diegorebua.com"><img src="./assets/portfolio.svg" width="32%" alt="Acessar portfólio diegorebua.com" /></a>
+  <a href="https://www.linkedin.com/in/diegorebu%C3%A1/"><img src="./assets/linkedin.svg" width="32%" alt="Acessar LinkedIn de Diego Rebuá" /></a>
+  <a href="mailto:diegorebua@gmail.com"><img src="./assets/email.svg" width="32%" alt="Enviar e-mail para Diego Rebuá" /></a>
+</div>
 
-<img align="left" alt="Logo do JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Logo do TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="left" alt="Logo do Node" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Logo do React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="Logo do Vue" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-<img align="left" alt="Logo da linguagem Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
-<img align="left" alt="Logo do Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Logo do Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Logo do Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Logo da AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+<br />
+
+Sou desenvolvedor full stack. Construo APIs, modelo dados e crio interfaces responsivas, com atenção a código limpo e à experiência de quem usa o produto. Hoje trabalho com Node.js, Vue, React e Go; também desenvolvo projetos com Java.
+
+<div align="center">
+  <img src="./assets/stack.svg" width="100%" alt="Minha stack: Java, Node.js, TypeScript, JavaScript, React, Vue 3, Docker e PostgreSQL." />
+</div>
+
+<br />
+
+## 02 / Projetos em destaque
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Nozzle Lab</h3>
+      <p>Gestão para negócios de impressão 3D: pedidos, clientes, estoque, impressoras e despesas em um só lugar.</p>
+      <p><code>React</code> <code>NestJS</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Docker</code></p>
+      <a href="https://nozzle-qmu.pages.dev">Ver projeto ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Dra. Milena Takenaka</h3>
+      <p>Site institucional para consultório odontológico, responsivo e com foco direto no agendamento de consultas.</p>
+      <p><code>Vue 3</code> <code>TypeScript</code> <code>Node.js</code> <code>Tailwind CSS</code> <code>Docker</code></p>
+      <a href="https://dramilenatakenaka.com">Ver projeto ↗</a>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://diegorebua.com/projetos">Ver mais projetos no portfólio →</a></p>
+
+## 03 / Atividade
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/diegorebua/diegorebua/output/horas.svg" width="100%" alt="Horários dos commits públicos recentes, no fuso de São Paulo." />
+  <br />
+  <img src="https://raw.githubusercontent.com/diegorebua/diegorebua/output/numeros.svg" width="100%" alt="Contribuições, commits, pull requests, repositórios e seguidores no GitHub." />
+  <br />
+  <img src="https://raw.githubusercontent.com/diegorebua/diegorebua/output/contribuicoes.svg" width="100%" alt="Animação das contribuições de Diego no GitHub." />
+</div>

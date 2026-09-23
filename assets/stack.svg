@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="336" viewBox="0 0 1200 336" role="img" aria-label="Stack de Diego: Java, Node.js, TypeScript, JavaScript, React, Vue, Docker e PostgreSQL">
+<title>Stack de Diego: Java, Node.js, TypeScript, JavaScript, React, Vue, Docker e PostgreSQL</title>
+<defs>
+  <radialGradient id="glow"><stop stop-color="#38bdf8" stop-opacity=".32"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+  <linearGradient id="blue" x2="1" y2="1"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#2563eb"/></linearGradient>
+  <linearGradient id="fade" x2="1" y2="0"><stop stop-color="#38bdf8" stop-opacity="0"/><stop offset=".55" stop-color="#38bdf8"/><stop offset="1" stop-color="#2563eb" stop-opacity="0"/></linearGradient>
+  <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#38bdf8" opacity=".18"/></pattern>
+  <style>
+    @keyframes pulse { 50% {opacity:.38} }
+    @keyframes drift { 50% {transform:translateX(24px)} }
+    .pulse {animation:pulse 3s ease-in-out infinite}
+    .drift {animation:drift 8s ease-in-out infinite}
+    @media (prefers-reduced-motion: reduce) {.pulse,.drift {animation:none}}
+  </style>
+</defs>
+<rect width="1200" height="336" rx="24" fill="#040711"/>
+<rect width="1200" height="336" rx="24" fill="url(#dots)"/>
+<rect x="1" y="1" width="1198" height="334" rx="23" fill="none" stroke="#1b3653" stroke-width="2"/>
+<text x="32" y="52" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="13" letter-spacing="3" fill="#38bdf8">01 / STACK</text>
+<text x="32" y="96" font-family="'Arial Narrow', Impact, 'Arial Black', sans-serif" font-size="52" font-weight="900" fill="#f0f6ff">FERRAMENTAS QUE USO</text>
+<path d="M32 112h1136" stroke="#1b3653"/><rect x="32" y="134" width="270" height="74" rx="13" fill="#080e1d" stroke="#1b3653"/>
+<rect x="32" y="134" width="4" height="74" rx="2" fill="#38bdf8"/>
+<text x="49" y="160" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="10" fill="#38bdf8">01 / BACKEND</text>
+<text x="49" y="189" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="18" font-weight="700" fill="#f0f6ff">JAVA</text><rect x="320" y="134" width="270" height="74" rx="13" fill="#080e1d" stroke="#1b3653"/>
+<rect x="320" y="134" width="4" height="74" rx="2" fill="#2563eb"/>
+<text x="337" y="160" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="10" fill="#38bdf8">02 / APIS</text>
+<text x="337" y="189" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="18" font-weight="700" fill="#f0f6ff">NODE.JS</text><rect x="608" y="134" width="270" height="74" rx="13" fill="#080e1d" stroke="#1b3653"/>
+<rect x="608" y="134" width="4" height="74" rx="2" fill="#38bdf8"/>
+<text x="625" y="160" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="10" fill="#38bdf8">03 / FULL STACK</text>
+<text x="625" y="189" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="18" font-weight="700" fill="#f0f6ff">TYPESCRIPT</text><rect x="896" y="134" width="270" height="74" rx="13" fill="#080e1d" stroke="#1b3653"/>
+<rect x="896" y="134" width="4" height="74" rx="2" fill="#2563eb"/>
+<text x="913" y="160" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="10" fill="#38bdf8">04 / WEB</text>
+<text x="913" y="189" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="18" font-weight="700" fill="#f0f6ff">JAVASCRIPT</text><rect x="32" y="225" width="270" height="74" rx="13" fill="#080e1d" stroke="#1b3653"/>
+<rect x="32" y="225" width="4" height="74" rx="2" fill="#38bdf8"/>
+<text x="49" y="251" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="10" fill="#38bdf8">05 / FRONTEND</text>
+<text x="49" y="280" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="18" font-weight="700" fill="#f0f6ff">REACT</text><rect x="320" y="225" width="270" height="74" rx="13" fill="#080e1d" stroke="#1b3653"/>
+<rect x="320" y="225" width="4" height="74" rx="2" fill="#2563eb"/>
+<text x="337" y="251" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="10" fill="#38bdf8">06 / FRONTEND</text>
+<text x="337" y="280" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="18" font-weight="700" fill="#f0f6ff">VUE 3</text><rect x="608" y="225" width="270" height="74" rx="13" fill="#080e1d" stroke="#1b3653"/>
+<rect x="608" y="225" width="4" height="74" rx="2" fill="#38bdf8"/>
+<text x="625" y="251" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="10" fill="#38bdf8">07 / DEPLOY</text>
+<text x="625" y="280" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="18" font-weight="700" fill="#f0f6ff">DOCKER</text><rect x="896" y="225" width="270" height="74" rx="13" fill="#080e1d" stroke="#1b3653"/>
+<rect x="896" y="225" width="4" height="74" rx="2" fill="#2563eb"/>
+<text x="913" y="251" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="10" fill="#38bdf8">08 / DADOS</text>
+<text x="913" y="280" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="18" font-weight="700" fill="#f0f6ff">POSTGRESQL</text>
+</svg>
