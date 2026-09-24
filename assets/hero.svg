@@ -1,36 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-label="Diego Rebuá — desenvolvedor full stack">
-<title>Diego Rebuá — desenvolvedor full stack</title>
-<defs>
-  <radialGradient id="glow"><stop stop-color="#38bdf8" stop-opacity=".32"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
-  <linearGradient id="blue" x2="1" y2="1"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#2563eb"/></linearGradient>
-  <linearGradient id="fade" x2="1" y2="0"><stop stop-color="#38bdf8" stop-opacity="0"/><stop offset=".55" stop-color="#38bdf8"/><stop offset="1" stop-color="#2563eb" stop-opacity="0"/></linearGradient>
-  <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#38bdf8" opacity=".18"/></pattern>
-  <style>
-    @keyframes pulse { 50% {opacity:.38} }
-    @keyframes drift { 50% {transform:translateX(24px)} }
-    .pulse {animation:pulse 3s ease-in-out infinite}
-    .drift {animation:drift 8s ease-in-out infinite}
-    @media (prefers-reduced-motion: reduce) {.pulse,.drift {animation:none}}
-  </style>
-</defs>
-
-<rect width="1200" height="520" rx="24" fill="#040711"/>
-<rect width="1200" height="520" rx="24" fill="url(#dots)"/>
-<circle class="drift" cx="875" cy="230" r="340" fill="url(#glow)"/>
-<rect x="1" y="1" width="1198" height="518" rx="23" fill="none" stroke="#1b3653" stroke-width="2"/>
-<path d="M0 66h1200" stroke="#1b3653"/>
-<circle cx="34" cy="33" r="5" fill="#38bdf8"/><circle cx="54" cy="33" r="5" fill="#2563eb"/><circle cx="74" cy="33" r="5" fill="#94a3b8" opacity=".5"/>
-<text x="110" y="39" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="15" fill="#94a3b8">diego.rebua / portfolio</text>
-<text x="1110" y="39" text-anchor="end" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="13" fill="#38bdf8">● ONLINE</text>
-<text x="62" y="113" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="16" letter-spacing="3" fill="#38bdf8">DESENVOLVEDOR FULL STACK</text>
-<text x="51" y="282" font-family="'Arial Narrow', Impact, 'Arial Black', sans-serif" font-size="185" font-weight="900" letter-spacing="-7" fill="#f0f6ff">DIEGO</text>
-<text x="51" y="447" font-family="'Arial Narrow', Impact, 'Arial Black', sans-serif" font-size="185" font-weight="900" letter-spacing="-7" fill="url(#blue)">REBUÁ</text>
-<path d="M920 165h205M920 185h132M920 205h174" stroke="#38bdf8" stroke-width="2" opacity=".38"/>
-<rect x="922" y="265" width="218" height="106" rx="12" fill="#080e1d" stroke="#1b3653"/>
-<text x="941" y="299" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="13" fill="#94a3b8">&gt; build --profile</text>
-<text x="941" y="328" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="13" fill="#38bdf8">backend ✓</text>
-<text x="941" y="351" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="13" fill="#38bdf8">frontend ✓</text>
-<path d="M55 477h1090" stroke="url(#fade)" stroke-width="2"/>
-<text x="58" y="502" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="12" letter-spacing="2" fill="#94a3b8">SISTEMAS CONFIÁVEIS  /  INTERFACES RÁPIDAS</text>
-
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-label="Diego Rebuá — desenvolvedor full stack">
+  <title>Diego Rebuá — desenvolvedor full stack</title>
+  <rect width="1200" height="430" rx="4" fill="#0A0A0A"/>
+  <text x="55" y="82" font-family="'JetBrains Mono', Consolas, monospace" font-size="14" letter-spacing="2" fill="#AFAFAF">DESENVOLVEDOR FULL STACK  →</text>
+  <text x="43" y="237" font-family="Inter, Arial, sans-serif" font-size="156" font-weight="600" letter-spacing="-13" fill="#F5F5F3">Diego</text>
+  <text x="43" y="371" font-family="Inter, Arial, sans-serif" font-size="156" font-weight="600" letter-spacing="-13" fill="#F5F5F3">Rebuá</text>
+  <line x1="682" y1="204" x2="682" y2="316" stroke="#3A5A6B" stroke-width="2"/>
+  <text x="715" y="247" font-family="Inter, Arial, sans-serif" font-size="30" letter-spacing="-1" fill="#F5F5F3">Design e tecnologia</text>
+  <text x="715" y="289" font-family="Inter, Arial, sans-serif" font-size="30" letter-spacing="-1" fill="#F5F5F3">com clareza e propósito.</text>
 </svg>
